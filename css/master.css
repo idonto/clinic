@@ -118,6 +118,7 @@
 
 /* seccion quienes somos */
 #quienes {
+  padding-top: 200px;
   height: auto;
   width: auto;
   background-color: #F3F1F3;
@@ -200,6 +201,37 @@
   height: auto;
   width: auto;
   background-color: #F3F1F3;
+}
+
+#este-dental{
+  padding-top: 50px;
+}
+#ortodoncia{
+  padding-top: 50px;
+}
+#endodoncia{
+  padding-top: 50px;
+}
+#implantologia{
+  padding-top: 50px;
+}
+#periodoncia{
+  padding-top: 50px;
+}
+#cirugia{
+  padding-top: 50px;
+}
+#apnea{
+  padding-top: 50px;
+}
+#protesis{
+  padding-top: 50px;
+}
+#armonizacion{
+  padding-top: 50px;
+}
+#odonto{
+  padding-top: 50px;
 }
 .textoEs{
   font-family: 'Poppins', sans-serif;
