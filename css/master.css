@@ -273,7 +273,9 @@
   width: auto;
   background-color: #F3F1F3;
 }
-
+#ubicacion{
+  padding-top: 100px;
+}
 
 .aseguradoras{
   display: block;
