@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="378.07114mm"
+   height="2.4876642mm"
+   viewBox="0 0 378.07114 2.4876642"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="linea_1.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="526.32226"
+     inkscape:cy="-67.656078"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g22"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(254.91681,-128.445)">
+    <g
+       id="g22"
+       transform="rotate(180,-120.53661,112.54761)">
+      <g
+         id="g4291"
+         transform="matrix(1.0001511,0,0,-0.61509647,0.02646866,154.55551)">
+        <rect
+           transform="scale(-1)"
+           y="-98.052231"
+           x="-13.682743"
+           height="3.7797618"
+           width="48.380955"
+           id="rect4285"
+           style="fill:#892ca0;stroke:#800080;stroke-width:0.26458332" />
+        <rect
+           transform="scale(-1)"
+           y="-98.052231"
+           x="40.519051"
+           height="3.7797647"
+           width="323.54764"
+           id="rect4287"
+           style="fill:#bc5fd3;stroke:#800080;stroke-width:0.26458332" />
+      </g>
+    </g>
+  </g>
+</svg>
